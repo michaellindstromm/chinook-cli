@@ -4,15 +4,15 @@
 
 A simple command line interface that allows users to create playlists from the Chinook Database.
 
+## Tip
+
+For best results, make terminal larger.
+
 ## Usage
 
 To run :
 
 ```
-ruby user_playlist.rb
-```
-Make terminal fairly large. 
-
-```
 clear
+ruby user_playlist.rb
 ```
