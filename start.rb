@@ -110,7 +110,7 @@ class Menu
     end
 
     def user_splash_page
-        puts "Choose one of the options below. Type 'quit' at anytime to exit the program."
+        puts "Choose one of the options below. Type 'quit'to exit the program."
         puts
         puts "[1] Search songs to add to your playlist."
         puts "[2] Create New Playlist."
@@ -126,6 +126,7 @@ class Menu
         when '3'
             view_songs_from_playlist
         when 'quit'
+            system "clear"
             return
         else
             puts

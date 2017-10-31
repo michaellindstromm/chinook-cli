@@ -138,5 +138,4 @@ class UserPlaylist < Track
     end
 
 end
-
 UserPlaylist.new(false).user_access
