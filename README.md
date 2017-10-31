@@ -11,3 +11,8 @@ To run :
 ```
 ruby user_playlist.rb
 ```
+Make terminal fairly large. 
+
+```
+clear
+```
